@@ -1,5 +1,4 @@
 # ENGCE117
-#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NANI2D21&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NANI2D21&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NANI2D21&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
