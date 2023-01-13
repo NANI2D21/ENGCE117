@@ -1,7 +1,6 @@
 <?php
-   $MyName = "Ariya";
-   echo "$MyName may";
+   $myname = "may ariya";
+   echo "$myname Student number ";
    echo "<br/>";
-   echo "Length of name : ";
-   echo strlen($MyName);
-?>
+   echo var_dump($myname);
+?> 
