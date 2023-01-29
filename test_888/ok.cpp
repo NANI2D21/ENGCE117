@@ -72,10 +72,8 @@ void SwapNode(struct DNode **list, int hi, int jojo) {
         }
         pink = pink->next;
     }
-
-//??????????????
     if (color == NULL || red == NULL)
-return;
+return ;
 if (dark != NULL)
 dark->next = red;
 else
