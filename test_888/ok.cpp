@@ -1,4 +1,4 @@
-
+//https://www.youtube.com/watch?v=ZC3lpM4ZbU0
 //นางอริยา รันยะ 65543206088-8
 #include <stdio.h>
 #include <stdlib.h>
