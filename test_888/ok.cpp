@@ -121,7 +121,7 @@ int main() {
   ShowAll(list); 
   printf("\n==============\n");
   printf(" SwapNode\n");
-  SwapNode( & list,1, 54);
+  SwapNode( & list,1, 5);
   ShowAll(list); 
 }
 
