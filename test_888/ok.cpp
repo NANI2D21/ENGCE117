@@ -1,6 +1,5 @@
 
-//https://youtu.be/CEMPpp1Sua0
-// ??????? ???????? 65543206040-9 sec 2
+//นางอริยา รันยะ 655432060888
 #include <stdio.h>
 #include <stdlib.h>
 
